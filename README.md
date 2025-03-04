@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hyper Spammmer!
 Welcome to my GitHub profile!  
 
-🚀 **About Me**  
+ **About Me**  
 - 💻 Passionate about coding and automation  
 - 🔧 Currently working on cool projects  
 - 🎯 Always learning and improving  
