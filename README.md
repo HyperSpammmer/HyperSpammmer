@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="matrix" width="100%" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="matrix" width="50%" />
 </p>
 
 <h1 align="center">𝙷𝚢𝚙𝚎𝚛𝚂𝚙𝚊𝚖𝚖𝚖𝚎𝚛 👾</h1>
